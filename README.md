@@ -1,14 +1,17 @@
-
 # clear
 
 `clear` transparent mixin
 
-## Installation
+## Install
 
 ```sh
-$ npm install git://github.com/shoelace-ui/clear.git
+$ npm install shoelace-ui-clear
 ```
+## Usage
 
+```styl
+@require 'shoelace-ui-clear'
+```
 ## License
 
-  MIT
+MIT
